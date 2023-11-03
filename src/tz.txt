@@ -1,0 +1,49 @@
+component ->
+    header ->
+        cart
+        wrapper ->
+            nav menu
+            logo
+            search input
+    main ->
+        content ->
+            slider
+            sidebar
+            carusel_product
+            tabs_product
+            cart_product
+    footer ->
+        menu_footer
+        social
+page->
+    home 
+    contact
+    deliveryPayment
+    cardProduct
+    category
+    cart
+element ->
+    img
+    button
+    form
+images
+fonts
+
+
+
+    Header ->
+        Logo
+        Search input
+        Navigation menu
+        Cart
+    Main Content ->
+        Slider
+        Product listings->
+            Various product containers ->
+                Product image
+                Product title
+                Product price
+    Footer ->
+        Footer menu
+        Contact information
+        Copyright notice
